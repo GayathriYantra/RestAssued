@@ -1,4 +1,4 @@
-package authorization;
+package authentication;
 
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;

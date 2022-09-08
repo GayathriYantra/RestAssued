@@ -1,4 +1,4 @@
-package authorization;
+package authentication;
 
 import static io.restassured.RestAssured.given;
 

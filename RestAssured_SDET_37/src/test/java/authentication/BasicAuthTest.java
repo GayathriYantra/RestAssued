@@ -1,4 +1,4 @@
-package authorization;
+package authentication;
 
 import org.hamcrest.Matchers;
 import org.testng.annotations.Test;
